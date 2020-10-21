@@ -25,7 +25,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🤹‍ Sobre o Happy
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
+O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você com intuito de alegrar o dia de muitas crianças! 💜 
 
 Este projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** com o instrutor **[@diego3g](https://github.com/diego3g)** 
 
